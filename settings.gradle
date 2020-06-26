@@ -1,0 +1,3 @@
+include ':jkutils'
+include ':app'
+rootProject.name = "JKUtility"
